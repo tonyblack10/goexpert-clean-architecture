@@ -3,17 +3,17 @@ module github.com/devfullcycle/20-CleanArch
 go 1.19
 
 require (
-	github.com/99designs/gqlgen v0.17.44
+	github.com/99designs/gqlgen v0.17.45
 	github.com/go-chi/chi/v5 v5.0.8
 	github.com/go-sql-driver/mysql v1.7.0
 	github.com/google/wire v0.5.0
 	github.com/mattn/go-sqlite3 v1.14.16
 	github.com/spf13/viper v1.14.0
 	github.com/streadway/amqp v1.0.0
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.9.0
 	github.com/vektah/gqlparser/v2 v2.5.11
 	google.golang.org/grpc v1.50.1
-	google.golang.org/protobuf v1.32.0
+	google.golang.org/protobuf v1.33.0
 )
 
 require (
@@ -37,15 +37,15 @@ require (
 	github.com/spf13/cast v1.5.0 // indirect
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
-	github.com/stretchr/objx v0.5.0 // indirect
+	github.com/stretchr/objx v0.5.2 // indirect
 	github.com/subosito/gotenv v1.4.1 // indirect
 	github.com/urfave/cli/v2 v2.27.1 // indirect
 	github.com/xrash/smetrics v0.0.0-20201216005158-039620a65673 // indirect
-	golang.org/x/mod v0.14.0 // indirect
-	golang.org/x/net v0.20.0 // indirect
-	golang.org/x/sys v0.16.0 // indirect
+	golang.org/x/mod v0.16.0 // indirect
+	golang.org/x/net v0.22.0 // indirect
+	golang.org/x/sys v0.18.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
-	golang.org/x/tools v0.17.0 // indirect
+	golang.org/x/tools v0.19.0 // indirect
 	google.golang.org/genproto v0.0.0-20221024183307-1bc688fe9f3e // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
